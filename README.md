@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from D'Imprima et al., "Cryo-EM structure of the bifunctional secretin complex of Thermus thermophilus". eLife, 2017. http://dx.doi.org/10.7554/eLife.30483
+
 # REP
 (Prototype) Recentering and subboxing of particles.
 
